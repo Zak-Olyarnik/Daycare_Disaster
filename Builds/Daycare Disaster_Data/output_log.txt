@@ -1,0 +1,73 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     2223 MB
+    Driver:   14.301.1019.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ZWO\Unity Projects\Daycare Disaster\Builds\Daycare Disaster_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ZWO\Unity Projects\Daycare Disaster\Builds\Daycare Disaster_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ZWO\Unity Projects\Daycare Disaster\Builds\Daycare Disaster_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ZWO\Unity Projects\Daycare Disaster\Builds\Daycare Disaster_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ZWO\Unity Projects\Daycare Disaster\Builds\Daycare Disaster_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ZWO\Unity Projects\Daycare Disaster\Builds\Daycare Disaster_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ZWO\Unity Projects\Daycare Disaster\Builds\Daycare Disaster_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ZWO\Unity Projects\Daycare Disaster\Builds\Daycare Disaster_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\ZWO\Unity Projects\Daycare Disaster\Builds\Daycare Disaster_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\ZWO\Unity Projects\Daycare Disaster\Builds\Daycare Disaster_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.833 seconds
+Platform assembly: C:\Users\ZWO\Unity Projects\Daycare Disaster\Builds\Daycare Disaster_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ZWO\Unity Projects\Daycare Disaster\Builds\Daycare Disaster_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.659777 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.119852 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.280907 ms (FindLiveObjects: 0.024707 ms CreateObjectMapping: 0.020146 ms MarkObjects: 0.215907 ms  DeleteObjects: 0.019386 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.948394 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 791.
+Total: 1.046845 ms (FindLiveObjects: 0.119357 ms CreateObjectMapping: 0.104912 ms MarkObjects: 0.776581 ms  DeleteObjects: 0.044473 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.475329 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 791.
+Total: 1.034301 ms (FindLiveObjects: 0.116696 ms CreateObjectMapping: 0.107953 ms MarkObjects: 0.789885 ms  DeleteObjects: 0.019005 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.508019 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 791.
+Total: 1.066991 ms (FindLiveObjects: 0.119737 ms CreateObjectMapping: 0.112134 ms MarkObjects: 0.819914 ms  DeleteObjects: 0.014444 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.499276 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 791.
+Total: 0.979184 ms (FindLiveObjects: 0.114035 ms CreateObjectMapping: 0.105672 ms MarkObjects: 0.743891 ms  DeleteObjects: 0.014064 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.446820 ms
+
+Unloading 245 unused Assets to reduce memory usage. Loaded Objects now: 275.
+Total: 9.307571 ms (FindLiveObjects: 0.082105 ms CreateObjectMapping: 0.073742 ms MarkObjects: 0.501755 ms  DeleteObjects: 8.648448 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.808511 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 290.
+Total: 0.638598 ms (FindLiveObjects: 0.047514 ms CreateObjectMapping: 0.050935 ms MarkObjects: 0.513919 ms  DeleteObjects: 0.024707 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2120 -> priority: 1 
+  Thread -> id: 1340 -> priority: 1 

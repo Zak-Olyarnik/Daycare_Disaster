@@ -37,7 +37,8 @@ public class BabyController : MonoBehaviour
 
 	void Update()
 	{
-		if (sleeping)
+        if (Time.timeScale == 0) return;    // Update is still run when timeScale = 0?  Inconsistent with Unity documentation...
+        if (sleeping)
 		{
 			if (sleep >= 100f)	// max sleep is 100
 			{ sleep = 100f; }

@@ -19,9 +19,15 @@ public class Menu : MonoBehaviour
 		{
 			if (GameController.days > bestTime)
 			{ bestTime = GameController.days; }
-			bestTimeText.text = "Longest Job: " + bestTime + " days";
-			lastTimeText.text = "Last Job: " + GameController.days + " days";
-		}
+
+            lastTimeText.text = "Last Job: " + GameController.days + " day";
+            if (GameController.days > 1)
+            { lastTimeText.text = lastTimeText.text + "s"; }
+
+            bestTimeText.text = "Longest Job: " + bestTime + " day";
+            if (bestTime > 1)
+            { bestTimeText.text = bestTimeText.text + "s"; }
+        }
 	}
 
 	// moves to controls screen
